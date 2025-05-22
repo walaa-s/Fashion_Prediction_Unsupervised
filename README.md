@@ -36,7 +36,7 @@ Install all dependencies with:
 ```bash
 pip install -r requirements.txt
 
-
+```
 ## ScreenShot of streamlit
 <img width="1728" alt="Screenshot 1446-11-24 at 11 56 32 AM" src="https://github.com/user-attachments/assets/a9226fb7-1470-4fc5-8398-714824bdf8e8" />
 
