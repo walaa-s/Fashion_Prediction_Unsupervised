@@ -10,9 +10,9 @@ from skimage.feature import hog
 import hashlib
 
 # --- Load pre-trained models ---
-scaler = joblib.load("/Users/mohannedalsahaf/iCloud Drive (Archive)/Mac Desktop/Tuwaiq Data Science Bootcamp/scaler.pkl")
-pca = joblib.load("/Users/mohannedalsahaf/iCloud Drive (Archive)/Mac Desktop/Tuwaiq Data Science Bootcamp/pca.pkl")
-kmeans = joblib.load("/Users/mohannedalsahaf/iCloud Drive (Archive)/Mac Desktop/Tuwaiq Data Science Bootcamp/kmeans_hog_svd_labels.pkl")
+scaler = joblib.load("scaler.pkl")
+pca = joblib.load("pca.pkl")
+kmeans = joblib.load("kmeans_hog_svd_labels.pkl")
 
 # Fashion MNIST class names
 class_names = ['T-shirt/top', 
