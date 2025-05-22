@@ -7,7 +7,7 @@ This Streamlit web app performs unsupervised image clustering using:
 
 It predicts the fashion category of uploaded 28×28 grayscale images from the Fashion MNIST dataset.
 
-##You can use any image and the model will predict it 
+## You can use any image and the model will predict it 
 ---
 
 ## 🚀 How It Works
