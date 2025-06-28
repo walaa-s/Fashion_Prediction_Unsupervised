@@ -2,10 +2,10 @@
 
 This project was developed as a team effort by:
 - Mohanned Alsahaf
-- Abdullah Alhuthaily
+-  Naif Ajeeb
 - Razan Alhussainan
 - Walaa Almajnuni
-- Abdulrahman Al-Abbas
+
 
 Original repository: [Mhndv/Fashion_Prediction_Unsupervised](https://github.com/Mhndv/Fashion_Prediction_Unsupervised)
 
